@@ -2,7 +2,7 @@ const http = require('http');
 const url = require('url');
 const https = require('https');
 
-const MAKE_URL = 'https://hook.eu1.make.com/l1llqubssf4eaqqr42cgs4rgccjghf1g';
+const MAKE_URL = 'https://hook.eu1.make.com/kn3w63o1wqcanjgbtzx8gf3asx1rv213';
 const VERIFY_TOKEN = 'micitabot123';
 
 const server = http.createServer((req, res) => {
